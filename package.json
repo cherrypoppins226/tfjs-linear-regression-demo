@@ -11,7 +11,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"@tensorflow/tfjs": "^1.1.0",
-		"apexcharts": "^3.6.7",
+		"apexcharts": "^3.17.0",
 		"babel-core": "^6.26.3",
 		"babel-loader": "^7.1.5",
 		"babel-plugin-transform-object-rest-spread": "^6.26.0",
