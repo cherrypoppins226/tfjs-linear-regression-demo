@@ -10,7 +10,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@tensorflow/tfjs": "^1.1.0",
+		"@tensorflow/tfjs": "^2.5.0",
 		"apexcharts": "^3.6.7",
 		"babel-core": "^6.26.3",
 		"babel-loader": "^7.1.5",
